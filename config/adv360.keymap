@@ -71,11 +71,11 @@
         windows_layer {
             display-name = "Win";
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                                         &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                                         &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT_CONTROL  &trans      &kp LEFT_GUI  &kp LCTRL  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                            &trans      &trans                           &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans          &trans  &trans            &trans      &trans        &trans     &trans          &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                                                &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                                                &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT_CONTROL  &kp RIGHT_ALT      &kp LEFT_GUI  &kp LCTRL  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans                            &trans             &trans                           &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans          &trans  &trans            &trans             &trans        &trans     &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
